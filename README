@@ -1,0 +1,13 @@
+Name: Elder Massahiro Yoshida
+NetId: emy2
+
+I have adhered to the Duke Community Standard.
+
+GET, CONNECT, POST methods implemented, working with no apparent issue.
+Loads Youtube, Gmail, stackoverflow, CNN, Piazza, Soundcloud.
+
+Use the makefile to compile and clean the project!
+
+
+Known issue with printing logs in debug mode.
+
